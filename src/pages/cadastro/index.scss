@@ -1,0 +1,12 @@
+.cadastroContainer {
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  grid-gap: 12px;
+}
+
+.cadastroInputs {
+  display: flex;
+  flex-direction: column;
+  row-gap: 5px;
+}

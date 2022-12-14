@@ -1,0 +1,13 @@
+.homeContainer {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  row-gap: 24px;
+  padding: 12px;
+}
+
+.homeSeparacaoContent {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 24px;
+}
