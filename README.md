@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## integrantes do grupo de desenvolvimento
+
+- Bruno Rocha Ribeiro
+
+- Eduardo Vinicius Silva de Lima
+
+- Italo Gustavo Donato Cordeiro
+
+- Rosane Silva Freitas Araujo
+
 ## Available Scripts
 
 In the project directory, you can run:
